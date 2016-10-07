@@ -1,0 +1,6 @@
+[submodule "iofw"]
+	path = iofw
+	url = git://github.com/comargo/iofw.git
+[submodule "stm32f4xx"]
+	path = stm32f4xx
+	url = git://github.com/comargo/stm32f4xx.git
